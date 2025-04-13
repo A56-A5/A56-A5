@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ALVI A.V
-- I'm learning web development for fun.
+- Just a curious lil guy doing random projects
   
