@@ -7,8 +7,8 @@ I do **game dev** and **web dev** – mostly learning by building stuff for fun 
 
 ## 🔗 Let's Connect
 
-- 📧 Email: [alvi@example.com](mailto:alvivinod16@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/alviav](https://linkedin.com/in/alvi-av)
+- 📧 Email: [alvivinod16@gmail.com](mailto:alvivinod16@gmail.com)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/alvi-av)
 
 ---
 
