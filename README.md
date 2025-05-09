@@ -8,7 +8,8 @@ I do **game dev** and **web dev** – mostly learning by building stuff for fun 
 ## 🔗 Let's Connect
 
 - 📧 Email: [alvivinod16@gmail.com](mailto:alvivinod16@gmail.com)  
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/alvi-av)
+- 💼 LinkedIn: [Alvi A V](https://linkedin.com/in/alvi-av)
+- 🧠 LeetCode: [A56A5](https://leetcode.com/u/A56A5/)
 
 ---
 
