@@ -13,5 +13,5 @@ I do **game dev** and **web dev** – mostly learning by building stuff for fun 
 
 ---
 
-Thanks for dropping by! 😄
+Check out my latest projects below 😄
 
