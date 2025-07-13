@@ -11,6 +11,10 @@ I do **game dev** and **web dev** – mostly learning by building stuff for fun 
 - 💼 LinkedIn: [Alvi A V](https://linkedin.com/in/alvi-av)
 - 🧠 LeetCode: [A56A5](https://leetcode.com/u/A56A5/)
 
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/A56-A5?theme=light&font=Source+Code+Pro)
+
+
+
 ---
 
 Check out my latest projects below 😄
