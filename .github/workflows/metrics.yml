@@ -17,4 +17,3 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: A56A5
-          plugin_leetcode_token: ${{ secrets.LEETCODE_SESSION }}
