@@ -1,0 +1,20 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]  # every day at midnight
+  push: {branches: ["main"]}
+  workflow_dispatch:
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: A56A5
+          plugin_leetcode_token: ${{ secrets.LEETCODE_SESSION }}
