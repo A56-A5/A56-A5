@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.540384615384617 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">183</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.630769230769232 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">184</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3640</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="49.2759009009009 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">133</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="49.6463963963964 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">134</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/888</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -71,7 +71,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x22</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x17</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x12</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x13</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x11</span></div>
                     </div>
                 </section>
