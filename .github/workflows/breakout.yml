@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *" # Runs every 24 hours
   workflow_dispatch:
 
 jobs:
@@ -16,10 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
-          github_username: ${{ github.repository_owner }}
+          github_username: A56-A5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify output
+        run: ls -R output
 
       - name: Move generated SVGs
         run: |
