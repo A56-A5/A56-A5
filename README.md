@@ -4,8 +4,6 @@ Just a curious lil guy doing random projects 👾
 I do **game dev** and **web dev** – mostly learning by building stuff for fun and curiosity.
 
 <img alt="Breakout Game" src="dark.svg" />
----
-
 ## 🔗 Let's Connect
 
 - 📧 Email: [alvivinod16@gmail.com](mailto:alvivinod16@gmail.com)  
