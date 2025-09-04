@@ -9,7 +9,7 @@ I do **game dev** and **web dev** – mostly learning by building stuff for fun 
 </picture>
 
 ## 🔗 Let's Connect
-  [Portfolio](https://alviav.vercel.app)
+  [My Portfolio](https://alviav.vercel.app)
 
 -  Email: [alvivinod16@gmail.com](mailto:alvivinod16@gmail.com)  
 -  LinkedIn: [Alvi A V](https://linkedin.com/in/alvi-av)
