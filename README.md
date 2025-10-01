@@ -61,10 +61,8 @@ I do **game dev** and **web dev** – mostly learning by building stuff for fun 
 
 ## 📊 GitHub Stats
 
-<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=A56-A5&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=A56-A5&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
