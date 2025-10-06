@@ -3,6 +3,8 @@
 Just a curious lil guy doing random projects  
 I do **game dev** and **web dev** – mostly learning by building stuff for fun and curiosity.
 
+[Portfolio](https://alviav.vercel.app)
+
 ## 🛠️ Languages & Tools
 
 
