@@ -1,7 +1,7 @@
 # 👋 Hi, I’m ALVI A V
 
 Just a curious lil guy doing random projects  
-I do **game dev** and **web dev** – mostly learning by building stuff for fun and curiosity.
+I do **web dev** and **software dev** – mostly learning by building stuff for fun and curiosity.
 
 [Portfolio](https://alviav.vercel.app)
 
