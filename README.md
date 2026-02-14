@@ -13,7 +13,7 @@ I do **web dev** and **software dev** – mostly learning by building stuff for 
     <td valign="top"><strong>Languages</strong><br/>
       <a title="Python" href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" alt="Python"/></a>
       <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" alt="JavaScript"/></a>
-      <a title="TypeScript" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="34" alt="TypeScript"/></a>
+      <a title="Rust" href="https://rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="34" alt="Rust"/></a>
     </td>
     <td valign="top"><strong>Frameworks</strong><br/>
       <a title="React" href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" alt="React"/></a>
