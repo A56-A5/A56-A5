@@ -1,7 +1,6 @@
 # 👋 Hi, I’m ALVI A V
 
-Just a curious lil guy doing random projects  
-I do **web dev** and **software dev** – mostly learning by building stuff for fun and curiosity.
+I make computers do interesting shit.
 
 [Portfolio](https://alviav.vercel.app)
 
@@ -50,13 +49,6 @@ I do **web dev** and **software dev** – mostly learning by building stuff for 
 - LinkedIn: [Alvi A V](https://linkedin.com/in/alvi-av)
 - Devfolio: [a56](https://devfolio.co/@a56)
 - LeetCode: [A56A5](https://leetcode.com/u/A56A5/)
-
-## 📊 GitHub Stats
-
-<div style="display:flex">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A56-A5&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=A56-A5&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
